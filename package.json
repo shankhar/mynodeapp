@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shankhar/mynodeapp/issues"
   },
-  "homepage": "https://github.com/shankhar/mynodeapp#readme"
+  "homepage": "https://github.com/shankhar/mynodeapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
